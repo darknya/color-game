@@ -1,4 +1,4 @@
 # color game
  html/css/DOM
-<be>
+<br>
  https://darknya.github.io/color-game/colorGame.html
